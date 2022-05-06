@@ -1,0 +1,6 @@
+Length of segment is: 5
+Angle with Oy is: 36.8699 degrees
+X1: 0
+X2: 0
+Y1: 3
+Y2: 4
