@@ -1,0 +1,35 @@
+Book number 1 language is English page number is 2
+Book number 2 language is Spanish page number is 2
+Book number 3 language is French page number is 2
+Book number 4 language is Latin page number is 8
+Book number 5 language is English page number is 5
+Book number 6 language is Spanish page number is 2
+Book number 7 language is French page number is 14
+Book number 8 language is Latin page number is 8
+Book number 9 language is English page number is 20
+Book number 10 language is Spanish page number is 20
+Book number 11 language is French page number is 32
+Book number 12 language is Latin page number is 20
+Book number 13 language is English page number is 14
+Book number 14 language is Spanish page number is 14
+Book number 15 language is  page number is 0
+Book number 16 language is  page number is 0
+Book number 17 language is  page number is 0
+Book number 18 language is  page number is 0
+Book number 19 language is  page number is 0
+Book number 20 language is  page number is 0
+Book number 21 language is  page number is 0
+Book number 22 language is  page number is 0
+Book number 23 language is  page number is 0
+Book number 24 language is  page number is 0
+Book number 25 language is  page number is 0
+Book number 26 language is  page number is 0
+Book number 27 language is  page number is 0
+Book number 28 language is  page number is 0
+Book number 29 language is  page number is 0
+Book number 30 language is  page number is 0
+------------------------------------
+Book number 3 language is French page number is 32
+Book number 10 language is Latin page number is 8
+------------------------------------
+Amount of books is: 4

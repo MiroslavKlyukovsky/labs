@@ -1,0 +1,63 @@
+Subject with name Linear Algebra has 0 hours
+Subject with name Mathematical Analysis has 1 hours
+Subject with name Discrete Math has 2 hours
+Subject with name Physics has 3 hours
+Subject with name Linear Algebra has 4 hours
+Subject with name Mathematical Analysis has 5 hours
+Subject with name Discrete Math has 6 hours
+Subject with name Physics has 0 hours
+Subject with name Linear Algebra has 1 hours
+Subject with name Mathematical Analysis has 2 hours
+Subject with name Discrete Math has 3 hours
+Subject with name Physics has 4 hours
+Subject with name Linear Algebra has 5 hours
+Subject with name Mathematical Analysis has 6 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+----------------------------------
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name None has 0 hours
+Subject with name Mathematical Analysis has 6 hours
+Subject with name Linear Algebra has 5 hours
+Subject with name Physics has 4 hours
+Subject with name Discrete Math has 3 hours
+Subject with name Mathematical Analysis has 2 hours
+Subject with name Linear Algebra has 1 hours
+Subject with name Physics has 0 hours
+Subject with name Discrete Math has 6 hours
+Subject with name Mathematical Analysis has 5 hours
+Subject with name Linear Algebra has 4 hours
+Subject with name Physics has 3 hours
+Subject with name Discrete Math has 2 hours
+Subject with name Mathematical Analysis has 1 hours
+Subject with name Linear Algebra has 0 hours
+----------------------------------
+Amount of hours is 42
