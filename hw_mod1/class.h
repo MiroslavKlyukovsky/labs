@@ -11,5 +11,6 @@ class Dim2array{
   char* operator [] (int);
   void numb_inside_calc();
   int get_num_amount();
+  operator int();
 };
 #endif

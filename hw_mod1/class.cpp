@@ -35,3 +35,8 @@ int Dim2array::get_num_amount(){
 numb_inside_calc();
 return amount_numb;
 };
+
+Dim2array::operator int(){
+numb_inside_calc();
+return amount_numb;
+};

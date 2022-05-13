@@ -20,12 +20,15 @@ int main(){
    *(array[2]+i) = arr3[i];
   }
    
-  for(int i = 0; i < 6; i++){
+  for(int i = 0; i < 6; i++){   
     std::cout << *(array[0]+i) << ' ';
   }
+
   std::cout << std::endl;
- 
-  std::cout << array.get_num_amount() << std::endl;
- 
+
+  //Two lines do same work in different ways
+  std::cout << array.get_num_amount() << std::endl; //like a regular method
+  std::cout << array << std::endl;                 //like the properties in C#
+  
   return 0;
 }
