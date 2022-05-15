@@ -20,7 +20,7 @@ int AlphabetString::length(){
 
 void AlphabetString::change(){
   char tmp = ' ';
-  for(int i = 0; i < Size; i++){
+  for(int i = 0; i < int(Size/2); i++){
       tmp = Array[i];
       Array[i] = Array[Size-1-i];
       Array[Size-1-i] = tmp;

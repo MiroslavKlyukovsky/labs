@@ -6,22 +6,33 @@
 int main(){
 
 	String* sptr;
-	AlphabetString* asptr;
+
+	AlphabetString obj(6,"qwerty");
+
+	sptr = &obj;
+
+	sptr->change();
+	
+	std::cout << sptr->length() << std::endl;
+	for(int i = 0; i < sptr->length(); i++){
+		std::cout << *(sptr->get_result() + i);}
+	
+
+	std::cout << std::endl;
+	
 
 	DigitsString dgstr(6,"qwerty");
 	
-	asptr = &dgstr;
+	sptr = &dgstr;
 		
-	asptr->change();//я хочу від нього зміни як в алфабет, а не як в діджітстрінг
-	dgstr.change();
+	sptr->change();
 	
 	std::cout << dgstr.length() << std::endl;
 	for(int i = 0; i < dgstr.length(); i++){
-		std::cout << *(dgstr.get_result() + i);
-	}
+		std::cout << *(dgstr.get_result() + i);}
+
 	std::cout << std::endl;
-	
-	
+
 	return 0;
 }
 

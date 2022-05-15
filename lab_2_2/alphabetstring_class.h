@@ -1,5 +1,6 @@
 #ifndef ALPHABETSTRING_CLASS
 #define ALPHABETSTRING_CLASS
+#include<iostream>
 #include<string>
 #include"string_class.cpp"
 class AlphabetString: public String{
